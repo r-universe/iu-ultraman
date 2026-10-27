@@ -5,5 +5,5 @@
 [submodule "spacescans"]
 	path = spacescans
 	url = https://github.com/IU-Ultraman/spacescans
-	branch = v0.3.3
+	branch = v0.3.4
 	subdir = r
